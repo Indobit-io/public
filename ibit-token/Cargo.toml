@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "programs/ibit-token"
+]
+
+[dependencies]
+anchor-lang = "0.28.0"
+anchor-spl = "0.28.0"
